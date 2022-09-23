@@ -1,7 +1,7 @@
 ### Hi there, I am Fantoni!
 
 - 🔭 I’m currently working on back-end as an intern at LibreCode.Coop
-- 🌱 I’m currently learning Python, Linux Terminal, PHP
+- 🌱 I’m currently learning Python, Linux Terminal, PHP, Vue.js
 - 😄 Pronouns: she/they/he
 
 <div align="center">
